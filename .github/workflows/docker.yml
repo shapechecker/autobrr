@@ -5,6 +5,7 @@ on:
     branches:
       - "master"
       - "develop"
+      - "feat/arm-docker-builds"
     tags:
       - 'v*'
   pull_request:
